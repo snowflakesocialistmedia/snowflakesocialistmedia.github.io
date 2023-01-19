@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snowflake Socialist Media Corp.</title>
-    <link>http://snowflakesocialistmedia.org/</link>
+    <link>https://snowflakesocialistmedia.org/</link>
     <description>Recent content on Snowflake Socialist Media Corp.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://snowflakesocialistmedia.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://snowflakesocialistmedia.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Donations</title>
-      <link>http://snowflakesocialistmedia.org/donations/</link>
+      <link>https://snowflakesocialistmedia.org/donations/</link>
       <pubDate>Thu, 19 Jan 2023 07:44:14 -0500</pubDate>
       
-      <guid>http://snowflakesocialistmedia.org/donations/</guid>
+      <guid>https://snowflakesocialistmedia.org/donations/</guid>
       <description>SSMC provides free access to appdot.net for its users, but is supported by donations. Please consider a one-time or recurring donation by following a appropriate link below. Thank you for helping to keep appdot.net running smoothly for all!
 Make a One-Time Donation Any amount! Make a $5 Donation Each Month (cancel any time) Make a $10 Donation Each Month (cancel any time) Manage your payments in the Stripe customer portal.</description>
       <content>&lt;p&gt;SSMC provides free access to &lt;a href=&#34;https://appdot.net&#34;&gt;appdot.net&lt;/a&gt; for its users, but is supported by donations. Please consider a one-time or recurring donation by following a appropriate link below. Thank you for helping to keep appdot.net running smoothly for all!&lt;/p&gt;
@@ -21,21 +21,21 @@ Make a One-Time Donation Any amount! Make a $5 Donation Each Month (cancel any t
 &lt;li&gt;&lt;a href=&#34;https://tinyurl.com/appdotdotnet10monthly&#34;&gt;Make a $10 Donation Each Month&lt;/a&gt; (&lt;a href=&#34;https://tinyurl.com/manageappdotdotnetpayments&#34;&gt;cancel&lt;/a&gt; any time)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Manage your payments in the &lt;a href=&#34;https://tinyurl.com/manageappdotdotnetpayments&#34;&gt;Stripe customer portal&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If you have questions or concerns, &lt;a href=&#34;http://snowflakesocialistmedia.org/about&#34;&gt;contact us&lt;/a&gt; directly!&lt;/p&gt;
+&lt;p&gt;If you have questions or concerns, &lt;a href=&#34;https://snowflakesocialistmedia.org/about&#34;&gt;contact us&lt;/a&gt; directly!&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://snowflakesocialistmedia.org/about/</link>
+      <link>https://snowflakesocialistmedia.org/about/</link>
       <pubDate>Thu, 19 Jan 2023 07:43:45 -0500</pubDate>
       
-      <guid>http://snowflakesocialistmedia.org/about/</guid>
+      <guid>https://snowflakesocialistmedia.org/about/</guid>
       <description>Purpose Snowflake Socialist Media Corp. is a donations-supported 501(i) non-exempt nonprofit organization created by the administration of the appdot.net Mastodon instance. It is operated as a social club.
 Formed in 2023 in Delaware (and operated in Virginia), the purpose of the organization is to provide:
 transparency to its users regarding operational costs and the use of donations to meet those costs updates regarding governance and decisions affecting the instance a legal point of contact and protective shield for its operator designated backup trustees in case of death or incapacitation of its operator People President / Operator / Moderator Joshua Nozzi https://appdot.</description>
       <content>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Snowflake Socialist Media Corp.&lt;/strong&gt; is a &lt;a href=&#34;http://snowflakesocialistmedia.org/donations&#34;&gt;donations&lt;/a&gt;-supported 501(i) non-exempt nonprofit organization created by the administration of the &lt;a href=&#34;https://appdot.net&#34;&gt;appdot.net&lt;/a&gt; &lt;a href=&#34;https://mastodon.social/about&#34;&gt;Mastodon&lt;/a&gt; instance. It is operated as a social club.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Snowflake Socialist Media Corp.&lt;/strong&gt; is a &lt;a href=&#34;https://snowflakesocialistmedia.org/donations&#34;&gt;donations&lt;/a&gt;-supported 501(i) non-exempt nonprofit organization created by the administration of the &lt;a href=&#34;https://appdot.net&#34;&gt;appdot.net&lt;/a&gt; &lt;a href=&#34;https://mastodon.social/about&#34;&gt;Mastodon&lt;/a&gt; instance. It is operated as a social club.&lt;/p&gt;
 &lt;p&gt;Formed in 2023 in Delaware (and operated in Virginia), the purpose of the organization is to provide:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;transparency to its users regarding operational costs and the use of donations to meet those costs&lt;/li&gt;

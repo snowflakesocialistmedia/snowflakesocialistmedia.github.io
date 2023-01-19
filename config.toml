@@ -1,4 +1,4 @@
-baseURL = 'http://snowflakesocialistmedia.org'
+baseURL = 'https://snowflakesocialistmedia.org'
 languageCode = 'en-us'
 title = 'Snowflake Socialist Media Corp.'
 theme = 'terminal'
