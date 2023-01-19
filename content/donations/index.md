@@ -4,7 +4,7 @@ date: 2023-01-19T07:44:14-05:00
 draft: false
 ---
 
-SSMC provides free access to [appdot.net](https://appdot.net) for its users, but is supported by donations. Please consider a one-time or recurring donation by following a appropriate link below. Thank you for helping to keep appdot.net running smoothly for all!
+SSMC provides free access to [appdot.net](https://appdot.net) for its users, but is supported by donations. Please consider a one-time or recurring donation by following one of the appropriate links below. Thank you for helping to keep appdot.net running smoothly for all!
 
 * [Make a One-Time Donation](https://tinyurl.com/supportappdotdotnet) Any amount!
 * [Make a $5 Donation Each Month](https://tinyurl.com/appdotdotnet5monthly) ([cancel](https://tinyurl.com/manageappdotdotnetpayments) any time)
