@@ -1,0 +1,5 @@
+baseURL = 'http://snowflakesocialistmedia.org'
+languageCode = 'en-us'
+title = 'Snowflake Socialist Media Corp.'
+theme = 'terminal'
+publishDir = 'docs'
