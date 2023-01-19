@@ -15,7 +15,7 @@ paginate = 5
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = false
@@ -91,6 +91,10 @@ paginate = 5
         identifier = "donations"
         name = "Donations"
         url = "/donations"
+      [[languages.en.menu.main]]
+        identifier = "conduct"
+        name = "Code of Conduct"
+        url = "/conduct"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
