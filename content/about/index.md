@@ -36,7 +36,7 @@ Please send all correspondence and legal notices for SSMC and the appdot.net sit
 
 ```
 Snowflake Socialist Media Corp.
-c/o Deleware Corporate Headquarters
+c/o Delaware Corporate Headquarters
 8 The Green, Ste A
 Dover, DE 19901
 United States of America
